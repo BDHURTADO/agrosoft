@@ -1,0 +1,16 @@
+# Entorno virtual
+agrosoft_env/
+
+# Archivos de base de datos
+db.sqlite3
+
+# Archivos estáticos generados
+static/
+
+# Archivos de medios generados
+media/
+
+# Archivos de configuración de IDE
+.vscode/
+*.pyc
+*.pyo
